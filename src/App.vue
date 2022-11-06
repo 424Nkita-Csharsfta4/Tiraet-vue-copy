@@ -271,41 +271,7 @@ li{
       </div>
     </div>
  
- <section class="categories">
-   <div class="container">
-     <div class="row">
-       <div class="categories__slider owl-carousel">
-         <div class="col-lg-3"  data-aos="fade-up">
-           <div class="categories__item set-bg" data-setbg="">
 
-             <h5><a href="#">Новый товар</a></h5>
-           </div>
-         </div>
-         <div class="col-lg-3">
-           <div class="categories__item set-bg" data-setbg="">
-             <h5><a href="#">Видео карты</a></h5>
-           </div>
-         </div>
-         <div class="col-lg-3">
-           <div class="categories__item set-bg" data-setbg="https://img.tiraet.com/img/450_450_1/54527_1.jpg">
-             <h5><a href="#">Платы</a></h5>
-           </div>
-         </div>
-         <div class="col-lg-3">
-           <div class="categories__item set-bg" data-setbg="https://img.tiraet.com/img/450_450_1/61871_1.jpg">
-             <h5><a href="#">Чипсеты</a></h5>
-           </div>
-         </div>
-         <div class="col-lg-3">
-           <div class="categories__item set-bg" data-setbg="https://img.tiraet.com/img/450_450_1/56431_1.jpg">
-             <h5><a href="#">SSD:диски</a></h5>
-           </div>
-         </div>
-       </div>
-     </div>
-   </div>
-   
- </section>
  <section class="featured spad">
    <div class="container">
      <div class="row">

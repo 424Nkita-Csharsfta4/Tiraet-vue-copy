@@ -560,7 +560,9 @@ ol {
 .hero.hero-normal .hero__search {
 	margin-bottom: 0;
 }
-
+a{
+	text-decoration: none;
+}
 .hero__categories__all {
 	background: #4861e4;
 	position: relative;

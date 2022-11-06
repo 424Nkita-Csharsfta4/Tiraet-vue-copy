@@ -772,7 +772,7 @@ li{
            <div class="footer__copyright__text"><p>
  Мошой Никита 313Гр<i class="fa fa-heart" aria-hidden="true"></i> Я на <a href="https://github.com/424Nkita-Csharsfta4" target="_blank">Github</a>
  </p></div>
-           <div class="footer__copyright__payment"><img src="assets/img/payment-item.png" alt="" /></div>
+       
          </div>
        </div>
      </div>

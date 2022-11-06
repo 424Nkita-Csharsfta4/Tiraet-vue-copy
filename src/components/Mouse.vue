@@ -86,10 +86,7 @@
 
 </script>
 <style>
-@import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,700");
-*, *::before, *::after {
-  box-sizing: border-box;
-}
+
 
 body {
   font-family: "Open Sans", sans-serif;
